@@ -1,28 +1,10 @@
-## Community Leaders DRC (Template)
+## Community Leaders DRC
 
-At <> we create, contribute, and support Open Source projects. We are the company behind IntelliJ IDEA and Kotlin, both of which are Open Source and foundational to the many other tools and products we have at JetBrains. 
+The Democratic Republic of Congo is a country with a rich history and culture, but it is also a country with a lot of challenges. One of the biggest challenges facing the country is its lack of technological development. In order to address this challenge, it is important to bring together all of the tech communities leaders in the country. This community will provide a forum for these leaders to share ideas, collaborate on projects, and advocate for the development of the tech sector in DR Congo.
  
+### Community Leaders DRC on GitHub 
 
-### JetBrains on GitHub 
-
-This organization houses many of the Open Source projects we work on and provide to the community. Each one has a label that categorises the type of project it is:
-
-
-
-| Label        | Description           
-| ------------- |-------------|
-| ![Official](https://jb.gg/badges/official-plastic.svg) |Official projects are officially supported by JetBrains. These can be products, plugins, learning materials, books, and more. They are available for all to use in accordance to the licensing terms and are fully supported by JetBrains.|
-| ![Team](https://jb.gg/badges/team-plastic.svg) |  Team projects are created by JetBrains employees. These projects include 20% projects, internal hackathons, those that support product development process, and/or benefit the JetBrains developer community. Team Projects are available for all to use in accordance to the licensing terms, despite not being officially supported. However, there are times that Team Projects become Official Projects.|
-| ![Incubator](https://jb.gg/badges/incubator-plastic.svg) | Incubator projects are official projects that are being developed by JetBrains. They are considered experimental, not mature enough, or lacking in some manner or release quality such testing and supporting documentation. They are provided as is. |
-|![Research](https://jb.gg/badges/research-plastic.svg) | 	Research projects are official projects developed and maintained by laboratories of JetBrains Research. These projects aim to contribute to cutting-edge scientific work and bring its discoveries into the everyday experience of our users. They are provided as is.|
-| ![Obsolete](https://jb.gg/badges/obsolete-plastic.svg) | Obsolete projects are those that have been discontinued, superseded, or historical. |
-
-
- 
-### Helping Open Source
-
-In addition to creating and maintaining Open Source projects, JetBrains also contributes, sponsors (both financially and via licenses) many Open Source projects. Find out more about how [JetBrains helps Open Source](https://jetbrains.com/opensource).
-
+This organization houses many of the Open Source projects we work on and provide to the community.
 
 ### Code of Conduct
 
@@ -50,11 +32,11 @@ Please take into account that online communities bring together people from many
 
 #### How to report issues
 
-If someone is acting inappropriately or violating this Code of Conduct in any shape or form, and they are not receptive to your feedback or you prefer not to confront them, please reach out to JetBrains via codeofconduct@jetbrains.com 
+If someone is acting inappropriately or violating this Code of Conduct in any shape or form, and they are not receptive to your feedback or you prefer not to confront them, please reach out !
 
 #### Consequences of Unacceptable Behaviour
 
-Unacceptable behaviour from any community member will not be tolerated. Anyone asked to stop unacceptable behaviour is expected to comply immediately. If a community member engages in unacceptable behaviour, JetBrains and/or community organisers may take any action they deem appropriate, up to and including a temporary ban or permanent expulsion from the community without warning.
+Unacceptable behaviour from any community member will not be tolerated. Anyone asked to stop unacceptable behaviour is expected to comply immediately. If a community member engages in unacceptable behaviour, community organisers may take any action they deem appropriate, up to and including a temporary ban or permanent expulsion from the community without warning.
 
 ##### License and attribution
 The license is based off of The Citizen Code of Conduct is distributed by Stumptown Syndicate under a Creative Commons Attribution-ShareAlike license.
